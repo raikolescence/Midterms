@@ -1,0 +1,33 @@
+
+
+Self-assessment
+
+Jewel Micah Aquino (TXY)
+	test suite
+formulation of the test cases for the two modules
+
+Victor Jacob Manlapaz (HXY)
+diropql
+diropql and file assembly portion of the project. Provided assistance to the person assigned to the test suite in creating test cases for the diropql interpreter (specifically the pq interpreter).
+
+Don Nicolai Salonga (TXY)
+The entire compressor module (bwt, mtf, rle, huffman)
+Reformatting of the project (all coded in a single main.rs file) to a repo, with separated diropql, compressor, and main.
+
+
+We, the members of MidP TXY Group 7, hereby certify that the information provided above is correct and accurate to the best of our knowledge. This information pertains to the Midterm Problem completed by our group.
+
+Group Members:
+
+Jewel Micah Aquino - 2019-04413
+Victor Jacob Manlapaz - 2020-00604
+Don Nicolai Salonga - 2020-09127
+
+We acknowledge that each member listed above actively participated in the project and contributed to the accuracy and completion of the provided information.
+
+
+Date: 05-26-2023
+
+
+
+
